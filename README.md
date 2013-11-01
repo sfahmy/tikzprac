@@ -14,6 +14,7 @@ For this exercise, we will try to recreate the figure in `simplearch_ref.pdf`:
 
 ##PGFPlots
 For this exercise, we will take a basic plot, add more data points and add a pre-determined function line:
+
 1. Compile `simpleplot.tex`, and change to the standalone class
 2. Modify the plot so that only the marks are shown
 3. Add the second data series from the file `plot2.data`
